@@ -1,0 +1,39 @@
+Vehicle ID,Fuel ID,Fuel Configuration ID,Manufacturer ID,Category ID,Model,Model Year,Alternative Fuel Economy City,Alternative Fuel Economy Highway,Alternative Fuel Economy Combined,Conventional Fuel Economy City,Conventional Fuel Economy Highway,Conventional Fuel Economy Combined,Transmission Type,Engine Type,Engine Size,Engine Cylinder Count,Engine Description,Manufacturer,Manufacturer URL,Category,Fuel Code,Fuel,Fuel Configuration Name,Electric-Only Range,PHEV Type,Notes
+11975,41,1,211,27,I3 (94 Ah) ,2018,129.0,106.0,"","","","",Auto,e-motor,125 kW electric motor,"","125 kW electric motor;
+94 Ah battery",BMW,www.bmwusa.com,Sedan/Wagon,ELEC,Electric,Dedicated,"","",""
+11976,41,1,211,27,I3s (94 Ah) ,2018,126.0,99.0,"","","","",Auto,e-motor,125 kW electric motor,"","125 kW electric motor;
+94 Ah battery",BMW,www.bmwusa.com,Sedan/Wagon,ELEC,Electric,Dedicated,"","",""
+12218,41,1,410,27,e6,2018,73.0,71.0,"","","","",Auto,e-motor,75 kW electric motor,"","75 kW electric motor; 
+270 Ah battery",BYD Motors,http://www.byd.com/,Sedan/Wagon,ELEC,Electric,Dedicated,"","",""
+11841,41,1,215,27,Bolt EV,2018,128.0,110.0,"","","","","",e-motor,150 kW electric motor,"","150 kW electric motor;
+171 Ah battery",Chevrolet,http://www.chevrolet.com,Sedan/Wagon,ELEC,Electric,Dedicated,"","",""
+11990,41,1,379,27,500e,2018,121.0,103.0,"","","","",Auto,e-motor,82 kW electric motor,"","82 kW electric motor;
+63 Ah battery",Fiat,http://www.fiatusa.com/,Sedan/Wagon,ELEC,Electric,Dedicated,"","",""
+11842,41,1,219,27,Focus Electric FWD,2018,118.0,96.0,"","","","",Auto,e-motor,107 kW electric motor,"","107 kW electric motor;
+105 Ah battery",Ford,http://www.fordvehicles.com,Sedan/Wagon,ELEC,Electric,Dedicated,"","",""
+11991,41,1,209,27,Clarity,2018,126.0,103.0,"","","","",Auto,e-motor,120 kW electric motor,"","120 kW electric motor; 
+82 Ah battery",Honda,http://automobiles.honda.com,Sedan/Wagon,ELEC,Electric,Dedicated,"","",""
+11844,41,1,351,27,Ioniq Electric,2018,150.0,122.0,"","","","",Auto,e-motor,88 kW electric motor,"","88 kW electric motor;
+78 Ah battery",Hyundai,http://www.hyundaiusa.com/,Sedan/Wagon,ELEC,Electric,Dedicated,"","",""
+11845,41,1,361,27,Soul,2018,124.0,93.0,"","","","",Auto,e-motor,81 kW electric motor,"","81 kW electric motor;
+80 Ah battery",Kia,http://www.kia.com,Sedan/Wagon,ELEC,Electric,Dedicated,"","",""
+11974,41,9,217,27,Leaf,2018,125.0,100.0,"","","","",Auto,e-motor,110 kW electric motor,"","110 kW electric motor;
+115 Ah battery",Nissan,http://www.nissanusa.com,Sedan/Wagon,ELEC,Electric,Hybrid Electric,"","",""
+11849,41,1,381,27,fortwo electric drive convertable,2018,112.0,91.0,"","","","",Auto,e-motor,60 kW electric motor,"","60 kW electric motor;
+51 Ah battery",smart,http://www.smartusa.com/,Sedan/Wagon,ELEC,Electric,Dedicated,"","",""
+11847,41,1,381,27,fortwo electric drive coupe,2018,124.0,94.0,"","","","",Auto,e-motor,60 kW electric motor,"","60 kW electric motor;
+51 Ah battery",smart,http://www.smartusa.com/,Sedan/Wagon,ELEC,Electric,Dedicated,"","",""
+11966,41,1,237,27,Model 3 Long Range,2018,136.0,123.0,"","","","",Auto,e-motor,211 kW electric motor,"","211 kW electric motor;
+230 Ah battery",Tesla,http://www.teslamotors.com/design/gallery-body.php,Sedan/Wagon,ELEC,Electric,Dedicated,"","",""
+12057,41,1,237,27,Model 3 Long Range AWD,2018,120.0,112.0,"","","","",Auto,e-motor,147 kW and 188 kW electric motor,"","147 kW and 188 kW electric motors; 
+230 Ah battery",Tesla,http://www.teslamotors.com/design/gallery-body.php,Sedan/Wagon,ELEC,Electric,Dedicated,"","",""
+12058,41,1,237,27,Model 3 Long Range AWD Performance,2018,120.0,112.0,"","","","",Auto,e-motor,147 kW and 188 kW electric motor,"","147 kW and 211 kW electric motors;
+230 Ah battery",Tesla,http://www.teslamotors.com/design/gallery-body.php,Sedan/Wagon,ELEC,Electric,Dedicated,"","",""
+11965,41,1,237,27,Model S 75 kWh,2018,97.0,100.0,"","","","",Auto,e-motor,270 kW electric motor,"","270 kW electric motor;
+245 Ah battery",Tesla,http://www.teslamotors.com/design/gallery-body.php,Sedan/Wagon,ELEC,Electric,Dedicated,"","",""
+11964,41,1,237,27,Model S AWD - 100D,2018,101.0,102.0,"","","","",Auto,e-motor,193 kW electric motor (X2),"","193 kW electric motor (X2);
+245 Ah battery",Tesla,http://www.teslamotors.com/design/gallery-body.php,Sedan/Wagon,ELEC,Electric,Dedicated,"","",""
+11962,41,1,237,27,Model S AWD - 75D,2018,102.0,105.0,"","","","",Auto,e-motor,193 kW electric motor (X2),"","193 kW electric motor (X2);
+245 Ah battery",Tesla,http://www.teslamotors.com/design/gallery-body.php,Sedan/Wagon,ELEC,Electric,Dedicated,"","",""
+11963,41,1,237,27,Model S AWD - P100D,2018,92.0,105.0,"","","","",Auto,e-motor,193 kW and 375 kW electric motor,"","193 kW and 375 kW electric motors;
+245 Ah battery",Tesla,http://www.teslamotors.com/design/gallery-body.php,Sedan/Wagon,ELEC,Electric,Dedicated,"","",""
