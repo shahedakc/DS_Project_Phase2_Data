@@ -1,0 +1,179 @@
+﻿State ,Metro City ,County,Average Houseprice(ZHVI)$,Electricity rates(kWh),Laws and Incentives score,DC charging T/F,No: of chargers,Population 
+GA,Atlanta Area ,Gilmer ,215100,11.65,6,0,0,28292
+GA,Atlanta Area ,Pickens,197800,11.65,6,0,0,29431
+GA,Atlanta Area ,Cherokee,265700,11.65,6,1,1,214346
+GA,Atlanta Area ,Forsyth ,342200,11.65,6,1,1,175511
+GA,Atlanta Area ,Bartow,179100,11.65,6,0,0,100157
+GA,Atlanta Area ,Paulding ,235495,11.65,6,0,0,142324
+GA,Atlanta Area ,Cobb,262300,11.65,6,1,2,688078
+GA,Atlanta Area ,Douglas,88600,11.65,6,0,0,132403
+GA,Atlanta Area ,Fulton ,290000,11.65,6,1,2,920581
+GA,Atlanta Area ,City of Atlanta,264500,11.65,6,1,2,420003
+GA,Atlanta Area ,Fayette ,285800,11.65,6,0,0,106567
+GA,Atlanta Area ,Clayton ,171000,11.65,6,1,1,259424
+GA,Atlanta Area ,Rockdale ,171600,11.65,6,0,0,85215
+GA,Atlanta Area ,Dekalb,208600,11.65,6,1,1,691893
+GA,Atlanta Area ,Gwinnett,237600,11.65,6,1,2,805321
+GA,Atlanta Area ,Walton ,208100,11.65,6,0,0,83768
+GA,Atlanta Area ,Hall,201900,11.65,6,1,1,179684
+TX,Austin Area,Williamson ,299291,11.85,14,1,2,422679
+TX,Austin Area,Caldwell,135800,11.85,14,0,0,38066
+TX,Austin Area,Bastrop,239000,11.85,14,0,0,74171
+MA,Boston Area ,Saugus,410200,22.02,24,1,1,26628
+MA,Boston Area ,Chelsea,375000,22.02,24,1,1,35177
+MA,Boston Area ,Winthrop ,475000,22.02,24,0,0,17497
+MA,Boston Area ,Boston,596700,22.02,24,1,3,617594
+MA,Boston Area ,Milton ,701500,22.02,24,0,0,27003
+MA,Boston Area ,Baintree ,480400,22.02,24,1,3,35744
+MA,Boston Area ,Hull ,416300,22.02,24,0,0,10293
+MA,Boston Area ,Hingham ,416300,22.02,24,0,0,5650
+IL,Chicago Area ,McHenry ,174900,12.47,15,0,0,308760
+IL,Chicago Area ,Dekalb ,148300,12.47,15,0,0,105160
+IL,Chicago Area ,DuPage,292200,12.47,15,1,2,916924
+IL,Chicago Area ,Cook,224900,12.47,15,1,1,5194675
+IL,Chicago Area ,Kendall ,241400,12.47,15,0,0,114736
+IL,Chicago Area ,Will ,228600,12.47,15,1,1,677560
+IL,Chicago Area ,Kankakee ,129200,12.47,15,0,0,113449
+IN,Chicago Area ,Porter,209800,12.22,7,0,0,164343
+OH,Cleveland -Akron Area ,Norwalk,130000,10.64,10,0,0,17012
+OH,Cleveland -Akron Area ,Lorain,144600,10.64,10,0,0,301356
+OH,Cleveland -Akron Area ,Medina ,206300,10.64,10,1,1,172332
+OH,Cleveland -Akron Area ,Summit,137200,10.64,10,0,0,541781
+OH,Cleveland -Akron Area ,Cuyahoga,133700,10.64,10,0,0,1280122
+OH,Cleveland -Akron Area ,Ashtabula,95000,10.64,10,0,0,101497
+OH,Cleveland -Akron Area ,Portage,163300,10.64,10,0,0,161419
+OH,Cleveland -Akron Area ,Carroll,111700,10.64,10,0,0,28836
+OH,Cleveland -Akron Area ,Tuscarawas,139900,10.64,10,0,0,92582
+OH,Cleveland -Akron Area ,Geauga ,245300,10.64,10,0,0,93389
+TX,Dallas -Ft. Worth Area ,Wise ,230300,11.85,14,0,0,59127
+TX,Dallas -Ft. Worth Area ,Denton ,294900,11.85,14,1,1,662614
+TX,Dallas -Ft. Worth Area ,Hunt ,125500,11.85,14,0,0,86129
+TX,Dallas -Ft. Worth Area ,Rockwall ,282000,11.85,14,0,0,78337
+TX,Dallas -Ft. Worth Area ,Parker ,281600,11.85,14,1,1,116927
+TX,Dallas -Ft. Worth Area ,Tarrant,218800,11.85,14,1,1,1809034
+TX,Dallas -Ft. Worth Area ,Dallas,214200,11.85,14,1,1,2368139
+TX,Dallas -Ft. Worth Area ,Kaufman,211500,11.85,14,0,0,103350
+TX,Dallas -Ft. Worth Area ,Hood ,244800,11.85,14,0,0,51182
+TX,Dallas -Ft. Worth Area ,Somervell,244100,11.85,14,0,0,8490
+TX,Dallas -Ft. Worth Area ,Johnson ,206000,11.85,14,0,0,150934
+CO,Denver Area ,Weld ,330900,12.91,29,1,1,252825
+CO,Denver Area ,Boulder,542900,12.91,29,1,3,294567
+CO,Denver Area ,Broomfield,449500,12.91,29,1,1,55889
+CO,Denver Area ,Arapahoe,383200,12.91,29,0,0,572003
+CO,Denver Area ,Douglas,494600,12.91,29,0,0,285465
+CO,Denver Area ,Park ,360500,12.91,29,0,0,16206
+CO,Denver Area ,Gilpin ,371100,12.91,29,1,1,5441
+CO,Denver Area ,Clear Clreek ,370400,12.91,29,0,0,9088
+MI,Detroit Area,Wayne,86100,12.91,29,0,0,1820584
+MI,Detroit Area,Washtenaw,291800,12.91,29,1,2,344791
+MI,Detroit Area,Livingston ,267400,12.91,29,1,1,180967
+MI,Detroit Area,Macomb,175700,12.91,29,0,0,840978
+MI,Detroit Area,Oakland ,252300,12.91,29,1,1,1202362
+TX,Houston Area ,Austin ,209300,11.85,14,1,2,790390
+TX,Houston Area ,Walker ,184900,11.85,14,0,0,67861
+TX,Houston Area ,Montgomery ,242900,11.85,14,1,2,455746
+TX,Houston Area ,Liberty ,209990,11.85,14,0,0,75643
+TX,Houston Area ,Harris,194000,11.85,14,1,2,4092459
+TX,Houston Area ,Fort Bend ,256200,11.85,14,1,1,585375
+TX,Houston Area ,Chambers,253300,11.85,14,0,0,35096
+CA,Los Angeles ,Kern ,223400,20.72,100,0,0,839631
+CA,Los Angeles ,San Bernardino ,354200,20.72,100,1,3,2035210
+CA,Los Angeles ,Riverside,388200,20.72,100,1,2,2189641
+CA,Los Angeles ,Orange,730500,20.72,100,1,5,3010232
+CA,Los Angeles ,Los Angeles,626600,20.72,100,1,11,9818605
+CA,Los Angeles ,Ventura,603200,20.72,100,1,1,823318
+CA,Los Angeles ,Santa Barbara ,600100,20.72,100,1,1,423895
+FL,Orlando,Orlando,245600,12.11,11,1,4,238300
+FL,Miami - Ft. Lauderdale ,Miami -Dade ,307900,12.11,11,1,3,2496435
+MN,Minneapolis - St. Paul,Sherburne,255300,14.02,17,0,0,88499
+MN,Minneapolis - St. Paul,Isanti,208500,14.02,17,0,0,37816
+MN,Minneapolis - St. Paul,Chisago ,253100,14.02,17,1,1,53887
+MN,Minneapolis - St. Paul,Wright,253000,14.02,17,0,0,124700
+MN,Minneapolis - St. Paul,Henneplin ,288300,14.02,17,1,2,1152425
+MN,Minneapolis - St. Paul,Washington ,304700,14.02,17,1,1,238136
+MN,Minneapolis - St. Paul,Carver,339300,14.02,17,0,0,91042
+MN,Minneapolis - St. Paul,Dakota,293100,14.02,17,1,1,398552
+MN,Minneapolis - St. Paul,Sibley,150000,14.02,17,0,0,15226
+MN,Minneapolis - St. Paul,Le Sueur ,200800,14.02,17,0,0,27703
+MN,Minneapolis - St. Paul,Scott,295600,14.02,17,0,0,129928
+TN,Nashville  Area ,Montgomery ,165800,10.52,2,0,0,172331
+TN,Nashville  Area ,Robertson ,203500,10.52,2,0,0,66283
+TN,Nashville  Area ,Cheatham ,205900,10.52,2,0,0,39105
+TN,Nashville  Area ,Davison ,268500,10.52,2,1,2,626681
+TN,Nashville  Area ,Wilson ,287900,10.52,2,0,0,113993
+TN,Nashville  Area ,Williamson ,479400,10.52,2,1,3,183182
+TN,Nashville  Area ,Rutherford,238600,10.52,2,0,0,262604
+TN,Nashville  Area ,Maury ,205900,10.52,2,0,0,80956
+NJ,New York City  Meto Area ,Sussex ,247000,15.48,9,0,0,149265
+NJ,New York City  Meto Area ,Hunterdon,377900,15.48,9,0,0,128349
+NJ,New York City  Meto Area ,Morris ,440100,15.48,9,0,0,492276
+NY,New York City  Meto Area ,Rockland,449600,18.72,18,1,2,311687
+NY,New York City  Meto Area ,Westchester,617100,18.72,18,1,3,949113
+NY,New York City  Meto Area ,Putnam ,357300,18.72,18,0,0,99710
+NJ,New York City  Meto Area ,Somerset ,405900,15.48,9,1,2,323444
+NJ,New York City  Meto Area ,Middlesex ,329800,15.48,9,0,0,809858
+NY,New York City  Meto Area ,Essex,164400,18.72,18,0,0,39370
+NJ,New York City  Meto Area ,Bergen ,471900,15.48,9,1,2,905116
+NJ,New York City  Meto Area ,Monmouth ,426100,18.72,18,1,1,630380
+NY,New York City  Meto Area ,Suffolk ,416400,18.72,18,1,1,1493350
+NY,Manhattan ,Manhattan ,1200600,18.72,18,1,1,1630000
+NY,The Bronxs ,Bronx,437600,18.72,18,1,1,1385108
+NY,Queens ,Queens ,647700,18.72,18,1,3,2230722
+NY,Staten Island,Richmond,531400,18.72,18,1,1,468730
+NY,Brooklyn ,Kings ,777200,18.72,18,1,4,2504700
+PA,Philadelphia ,Montgomery ,312700,14.02,13,0,0,799874
+PA,Philadelphia ,Bucks ,329800,14.02,13,0,0,625249
+PA,Philadelphia ,Delawear,221900,14.02,13,0,0,558979
+DE,Philadelphia ,New Castle ,232900,12.83,8,0,0,538479
+NJ,Philadelphia ,Gloucester ,198500,15.48,9,0,0,288288
+NJ,Philadelphia ,Camden ,176900,15.48,9,0,0,513657
+NJ,Philadelphia ,Burlington ,232600,15.48,9,0,0,448734
+AZ,Phoenix Metro area ,Buckeye,232300,12.44,16,1,2,50876
+AZ,Phoenix Metro area ,Surprise ,265100,12.44,16,0,0,117517
+AZ,Phoenix Metro area ,Sun City West,255400,12.44,16,0,0,24535
+AZ,Phoenix Metro area ,El Mirage ,210600,12.44,16,0,0,31797
+AZ,Phoenix Metro area ,Sun City ,186500,12.44,16,1,1,37499
+AZ,Phoenix Metro area ,Peoria ,287100,12.44,16,1,1,154065
+AZ,Phoenix Metro area ,Glendale ,239000,12.44,16,0,0,226721
+AZ,Phoenix Metro area ,Anthem ,345600,12.44,16,1,1,21700
+AZ,Phoenix Metro area ,Cave Creek ,598300,12.44,16,0,0,5015
+AZ,Phoenix Metro area ,Carefree,767400,12.44,16,0,0,3363
+AZ,Phoenix Metro area ,Scottsdale ,486600,12.44,16,1,4,217385
+AZ,Phoenix Metro area ,Fountain Hills,418500,12.44,16,0,0,22489
+AZ,Phoenix Metro area ,Mesa ,257100,12.44,16,1,1,439041
+AZ,Phoenix Metro area ,Apache Junction ,224500,12.44,16,0,0,35840
+AZ,Phoenix Metro area ,Gold Canyon ,315600,12.44,16,0,0,10159
+AZ,Phoenix Metro area ,Queen Creek ,301300,12.44,16,0,0,26361
+AZ,Phoenix Metro area ,Gilbert ,346000,12.44,16,1,2,208453
+AZ,Phoenix Metro area ,Chandler,324500,12.44,16,1,2,236123
+AZ,Phoenix Metro area ,Tempe ,297700,12.44,16,1,2,161719
+AZ,Phoenix Metro area ,Avondale ,239500,12.44,16,,0,76238
+AZ,Phoenix Metro area ,Goodyear,298200,12.44,16,0,0,65275
+AZ,Phoenix Metro area ,Maricopa ,280500,12.44,16,0,0,43482
+AZ,Phoenix Metro area ,Florence ,216200,12.44,16,0,0,25536
+AZ,Phoenix Metro area ,Litchfield Park,329000,12.44,16,0,0,5476
+AZ,Phoenix Metro area ,Youngtown,171500,12.44,16,0,0,6156
+AZ,Phoenix Metro area ,Rio Verde,515100,12.44,16,0,0,1811
+AZ,Phoenix Metro area ,Tolleson ,202000,12.44,16,0,0,6545
+AZ,Phoenix Metro area ,Paradise Valle ,347500,12.44,16,0,0,12820
+CA,San Fancisco Bay Area ,Marina,591900,20.72,100,1,1,19718
+CA,San Fancisco Bay Area ,Napa,668500,20.72,100,1,3,136484
+CA,San Fancisco Bay Area ,Solano ,443400,20.72,100,1,2,413344
+CA,San Fancisco Bay Area ,Contra Costa ,618400,20.72,100,1,5,1049025
+CA,San Fancisco Bay Area ,Alameda ,839700,20.72,100,1,3,73812
+CA,San Fancisco Bay Area ,San Mateo ,1287400,20.72,100,1,3,718451
+CA,San Fancisco Bay Area ,Santa Clara ,1161100,20.72,100,1,5,1781642
+WA,Seattle Area,King,617400,9.86,24,1,10,1931249
+MO,St. Louis,Lincoln ,179600,12.07,7,0,0,19687
+Lousiana,St. Louis,Monroe ,198000,9.68,4,1,1,48815
+Illinois,St. Louis,Jersey ,110700,12.47,15,0,0,22985
+MO,St. Louis,Clinton ,179000,12.07,7,0,0,1052
+MD,Washington DC Area ,Washington DC,575600,12.83,17,1,1,147430
+MD,Washington DC Area ,Anne Arundel ,344900,12.83,17,1,2,537656
+MD,Washington DC Area ,Montgomery ,451600,12.83,17,1,2,971777
+TN,Washington DC Area ,Loudon ,246200,10.52,2,0,0,48556
+TX,Washington DC Area ,Arlington ,213000,11.85,14,1,2,365438
+VA,Washington DC Area ,Fairfax ,564300,11.9,11,1,3,1081726
+MD,Washington DC Area ,Charles,302700,12.83,17,1,2,146551
+VA,Washington DC Area ,Fauquier ,381200,12.83,11,1,1,65203
+CA,San Fancisco Bay Area ,San Jose,989000,20.72,100,1,10,945942
